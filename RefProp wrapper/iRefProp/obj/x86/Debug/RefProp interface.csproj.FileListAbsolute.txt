@@ -1,0 +1,5 @@
+c:\users\andy4\documents\visual studio 2015\Projects\RefProp interface\RefProp interface\bin\x86\Debug\RefProp interface.dll
+c:\users\andy4\documents\visual studio 2015\Projects\RefProp interface\RefProp interface\bin\x86\Debug\RefProp interface.pdb
+c:\users\andy4\documents\visual studio 2015\Projects\RefProp interface\RefProp interface\obj\x86\Debug\RefProp interface.dll
+c:\users\andy4\documents\visual studio 2015\Projects\RefProp interface\RefProp interface\obj\x86\Debug\RefProp interface.pdb
+c:\users\andy4\documents\visual studio 2015\Projects\RefProp interface\RefProp interface\obj\x86\Debug\RefProp interface.csprojResolveAssemblyReference.cache
